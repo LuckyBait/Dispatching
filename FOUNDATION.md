@@ -14,5 +14,4 @@ Foundation — система сохранения контекста между
   с пометкой «источник: Dispatching»
 
 Как устроено подключение: governance/PROJECT_BOOTSTRAP.md в Foundation
-(v0, пробный). Результат проверки подключения: запись от 2026-09-28
-в governance/IDEAS_AND_DISCUSSION.md Foundation.
+(v0, пробный).
